@@ -11,6 +11,9 @@
 *.ilk
 *.map
 *.exp
+*.MOV
+*.JPG
+*.CR2
 
 # Precompiled Headers
 *.gch
